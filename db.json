@@ -75,5 +75,57 @@
             "City": "São Paulo",
             "Country": "Brazil"
         }
+    ],
+    "movies" : [
+        {
+            "title": "Geostorm",
+            "year": 2016,
+            "director": "Dean Devlin",
+            "cast": "Gerard Butler, Andy Garcia, Ed Harris, Katheryn Winnick",
+            "genre": "Action",
+            "notes": "Warner Bros.",
+            "id": 100,
+            "runningTimes": {
+                "mon": [
+                    "12:00",
+                    "14:30",
+                    "16:50",
+                    "18:40"
+                ],
+                "tue": [
+                    "14:45",
+                    "18:35",
+                    "21:45"
+                ],
+                "wed": [
+                    "18:35",
+                    "20:55",
+                    "23:45"
+                ],
+                "thu": [
+                    "09:15",
+                    "13:15",
+                    "16:55",
+                    "19:10"
+                ],
+                "fri": [
+                    "14:3",
+                    "16:50",
+                    "19:10"
+                ],
+                "sat": [
+                    "16:50",
+                    "19:10"
+                ],
+                "sun": [
+                    "09:15",
+                    "11:15",
+                    "12:00",
+                    "14:30",
+                    "16:50",
+                    "18:40"
+                ]
+            }
+        }
     ]
 }
